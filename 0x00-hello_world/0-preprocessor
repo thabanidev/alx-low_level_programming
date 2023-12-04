@@ -1,2 +1,1 @@
-# Compiling to preprocessor
 gcc $CFILE -E -o
