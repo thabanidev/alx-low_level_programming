@@ -1,1 +1,1 @@
-# Working with variables, if else, and while loops in C
+# Working with variables, if else, and while loops
