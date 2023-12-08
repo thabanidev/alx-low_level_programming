@@ -15,6 +15,7 @@ int main(void)
 	}
 
 	n = 'a';
+
 	while (n <= 'f')
 		putchar(n++);
 
